@@ -11,6 +11,8 @@ este repositorio sera utilizado para hecernun activo readme
 7) confirmar que los archivos que estan en stage seran enviados a git hub: git commit -m "mensaje del commit"
 8) subir el commit o los cambios a la nube (github) git push origin (nombre de la rama)
 9) revisar en la web nuestro repositorio en github y verificar que los cambios de han subido
+10) nuevos cambios
+
 
 
 
